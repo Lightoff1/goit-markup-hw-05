@@ -678,6 +678,7 @@ border-left: 1px solid #EEEEEE;
   background-color: var(--accent-color);
 }
 
+/* -----------Модальное окно------------ */
 
 .modal-close {
   position: absolute;
